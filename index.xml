@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logan</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Logan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Logan # My name is Logan I like sports and computer games. I play football, basketball and soccer. I have an XBox, Ipad and Quest 2 VR.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Fresh Start</title>
+      <link>/post/fresh-start/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fresh-start/</guid>
+      <description>
+        
+          &lt;img src=&#34;/post/fresh-start/img/hello.png&#34;/&gt;
+          
+        
+        
+        
+          Fresh Start
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
